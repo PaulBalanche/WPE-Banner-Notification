@@ -1,7 +1,7 @@
 {
-    "name": "wpextend/wpe-banner-botification",
-    "description": "Allow to handle a benner notification",
-    "version": "1.0.0",
+    "name": "wpextend/wpe-banner-notification",
+    "description": "Allow to handle a banner notification",
+    "version": "1.0.1",
     "type": "wordpress-plugin",
     "keywords": ["wordpress", "plugin", "boilerplate-plugin"],
     "homepage": "https://github.com/PaulBalanche/WPE-Banner-Notification",
