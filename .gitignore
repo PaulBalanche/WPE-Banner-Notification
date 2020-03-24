@@ -1,0 +1,4 @@
+vendor/
+config/*
+!config/.htaccess
+composer.lock
