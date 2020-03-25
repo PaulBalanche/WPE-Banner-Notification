@@ -1,7 +1,7 @@
 {
     "name": "wpextend/wpe-banner-notification",
     "description": "Simple banner notification handler",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "type": "wordpress-plugin",
     "keywords": ["wordpress", "plugin", "boilerplate-plugin"],
     "homepage": "https://github.com/PaulBalanche/WPE-Banner-Notification",

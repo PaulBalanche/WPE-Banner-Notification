@@ -147,6 +147,8 @@ class Options {
         if( isset($_POST['title'], $_POST['content'], $_POST['lang']) ) {
             
             $current_options = $this->get_options();
+            if( ! $current_options || ! is_array() ) $current_options = [];
+            
             if( $_POST['lang'] == $this->wordpress_default_locale ) {
                 $current_options[ $this->wordpress_default_locale ] = [
                     'title' => $_POST['title'],
