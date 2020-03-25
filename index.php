@@ -1,9 +1,9 @@
 <?php
 /**
 * Plugin Name: WPE Banner Notification
-* Description: Allow to handle a banner notification
+* Description: Simple banner notification handler
 * Text Domain: WpeBannerNotification
-* Version: 1.0.1
+* Version: 1.0.2
 * Author: Paul Balanche
 **/
 
